@@ -1,4 +1,4 @@
-print("Hello Git!")
+print("Hello from master!")
 print("I'm learning Git and Github")
 print("Git is easy")
 print("I'm practicing Git everyday")
