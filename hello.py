@@ -8,3 +8,5 @@ print("Changes made by my teammate")
 print("Change made locally by me")
 print("Change made by my teammate during collaboration")
 print("This commit will be cherry-picked")
+print("Learning Git rebase")
+
